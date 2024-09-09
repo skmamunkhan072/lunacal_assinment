@@ -1,9 +1,51 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Lunacal_assinment
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# lunacal_assinment
+
+
+
+## 🛠 Skills
+HTML, CSS React, vite Javascript, swiper,React Icon...
+
+
+
+
+<h1>Preview WrebSite</h1>
+
+-  [Live Site Link](https://lunacal-assinment.netlify.app/)
+
+
+
+
+## project Setup
+
+First 
+
+```bash
+  git clone https://github.com/skmamunkhan072/lunacal_assinment.git
+```
+
+
+dependency install   
+
+```bash
+  npm install
+```
+```bash
+  yarn
+```
+
+
+build command
+
+```bash
+  npm run build
+```
+
+```bash
+  yarn build
+```
+
+
+
